@@ -16,4 +16,4 @@ https://blog.csdn.net/iabbg/article/details/80002260
 12.git remote add origin https://github.com/WilliamHLZ/test1.git
     (if wrong,git remote rm origin)
 13.git push -u origin master (git push origin master)
-14. 
+14.git pull https://github.com/WilliamHLZ/test1.git
