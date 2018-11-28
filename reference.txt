@@ -1,6 +1,4 @@
 ﻿https://blog.csdn.net/iabbg/article/details/80002260
-https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
-
 0. git config -global user.name "WilliamHLZ"
    git config -global user.email "hlzcow1986@126.com"
    ssh
@@ -25,6 +23,14 @@ https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b
 15.git pull origin master
 
 16.git checkout -- readme.txt (rollback readme.txt)
+   Or git reset readme.txt Then git checkout -- readme.txt 
 
-17.Or git reset readme.txt Then git checkout -- readme.txt 
-
+17.git branch newBra (new a branch named newBra)
+   git checkout newBra ( switch to newBra branch )
+   (do some change)
+   git add .
+   git commit -m"Tagtext"
+   git checkout master (switch back to master)
+   git merge newBra (merge the master and newBra together)
+   git branch -d newBra (delete newBra)
+   git push origin master (push to github)
