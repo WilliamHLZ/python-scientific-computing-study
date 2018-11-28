@@ -5,7 +5,7 @@ https://blog.csdn.net/iabbg/article/details/80002260
 1. cd e:/ 
 2. cd Programs/pythons/git_test
 3. git init
-4. git add . £¨add all files£©
+4. git add . Â£Â¨add all filesÂ£Â©
 5. git add readme.txt (add readme.txt)
 6. git status  (getting status in branch)
 7. git commit -m"info" (commit changes)
@@ -16,4 +16,4 @@ https://blog.csdn.net/iabbg/article/details/80002260
 12.git remote add origin https://github.com/WilliamHLZ/test1.git
     (if wrong,git remote rm origin)
 13.git push -u origin master (git push origin master)
-14. 
+14. just test
