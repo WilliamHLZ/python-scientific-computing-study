@@ -3,6 +3,9 @@
 Created on Thu Nov 29 07:51:12 2018
 
 @author: William
+email : hlzcow1986@126.com
+# : 欢迎转载:转载请注明出处
+Just used for numpy study
 """
 # Just the numpy study
 import numpy as np
