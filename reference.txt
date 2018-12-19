@@ -2,8 +2,8 @@
 0. git config -global user.name "WilliamHLZ"
    git config -global user.email "hlzcow1986@126.com"
    ssh
-1. cd e:/ 
-2. cd Programs/pythons/git_test
+1. E:\
+2. cd E:\Programs\pythons\git_test
 3. git init
 4. git add . （add all files)
 5. git add readme.txt (add readme.txt)
