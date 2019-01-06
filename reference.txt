@@ -1,9 +1,8 @@
-﻿https://blog.csdn.net/iabbg/article/details/80002260
-0. git config -global user.name "WilliamHLZ"
-   git config -global user.email "hlzcow1986@126.com"
+﻿0. git config --global user.name "WilliamHLZ"
+   git config --global user.email "hlzcow1986@126.com"
    ssh
-1. E:\
-2. cd E:\Programs\pythons\git_test
+1. E:/
+2. cd E:/Programs/pythons/git_test  (using"/" not "\")
 3. git init
 4. git add . （add all files)
 5. git add readme.txt (add readme.txt)
@@ -34,3 +33,5 @@
    git merge newBra (merge the master and newBra together)
    git branch -d newBra (delete newBra)
    git push origin master (push to github)
+
+ref: https://blog.csdn.net/iabbg/article/details/80002260

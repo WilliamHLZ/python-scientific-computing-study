@@ -2,8 +2,8 @@
 """
 Created on Tue Dec  4 21:02:56 2018
 
-@author: William
-email : hlzcow1986@126.com
+@author: William/ HuangLingZhi
+Email : hlzcow1986@126.com
 # : 欢迎转载:转载请注明出处
 # Just used for pandas study
 """
