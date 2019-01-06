@@ -2,7 +2,7 @@
 """
 Created on Tue Jan  1 13:34:59 2019
 
-@author: William/ HuangLingZhi
+@author:  HuangLingZhi
 Email : hlzcow1986@126.com
 # : 欢迎转载:转载请注明出处
 # Just used for pandas study
@@ -46,9 +46,9 @@ from mpl_toolkits.mplot3d import Axes3D  # 3d坐标轴
 
 # 1.3 子图
 #plt.figure(3)
-#plt.subplot(2,1,1)
+#plt.subplot(2,1,1)  # 两行一列，第一个图
 #plt.plot(np.arange(0,11,2), np.arange(0,11,2))
-#plt.subplot(2,1,2)
+#plt.subplot(2,1,2)  # 两行一列，第二个图
 #plt.plot(np.arange(0,11,2),np.ones(6))
 
 # 1.4 散点图

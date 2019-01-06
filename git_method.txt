@@ -12,7 +12,7 @@
 9. git log ( see all the versions)
 10.git reset --hard head~1  (roll back the version before the head                             version)
 11.git branch -a (display all then branches)
-12.git remote add origin https://github.com/WilliamHLZ/test1.git
+12.git remote add origin https://github.com/WilliamHLZ/python-scientific-computing-study
     (if wrong, git remote rm origin)
 13.git push -u origin master (git push origin master)
 

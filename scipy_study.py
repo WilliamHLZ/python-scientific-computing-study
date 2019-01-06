@@ -49,7 +49,7 @@ from scipy.interpolate import interp1d
 #y3 = fsolve(fun3, x1)
 #
 #plt.plot(x2, fun1(x2), x2, fun2(x2))
-#
+# 
 #plt.scatter(y3, fun2(y3))
 
 # =============================================================================
